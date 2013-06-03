@@ -14,7 +14,7 @@ IAT-381-Project-2
 			<h1>Avant Gardens</h1>
 			<nav>
 				<ul>
-					<li><a href="#">About</a></li>
+					<li><a href="#">All</a></li>
 					<li><a href="#">Contact</a></li>
 					<li><a href="#">Gallery</a></li>
 				</ul>
